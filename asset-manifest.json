@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/new_project/static/css/main.e118dab9.css",
+    "main.js": "/new_project/static/js/main.02e65de9.js",
+    "static/js/787.8741f9c1.chunk.js": "/new_project/static/js/787.8741f9c1.chunk.js",
+    "static/media/burger1.jpg": "/new_project/static/media/burger1.d2ced6d4f0527273f093.jpg",
+    "index.html": "/new_project/index.html",
+    "main.e118dab9.css.map": "/new_project/static/css/main.e118dab9.css.map",
+    "main.02e65de9.js.map": "/new_project/static/js/main.02e65de9.js.map",
+    "787.8741f9c1.chunk.js.map": "/new_project/static/js/787.8741f9c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e118dab9.css",
+    "static/js/main.02e65de9.js"
+  ]
+}
